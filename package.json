@@ -1,0 +1,33 @@
+{
+    "name": "cra-template-topicmap-wuppertal",
+    "version": "1.0.0-alpha-1",
+    "scripts": {
+        "prettify": "prettier --write './template/src/**/*.js'",
+        "lint": "eslint './template/src/**/*.js'",
+        "test": "jest"
+    },
+    "keywords": [
+        "react",
+        "create-react-app",
+        "template",
+        "topicmaps",
+        "wuppertal"
+    ],
+    "description": "TThe official TopicMap template for Create React App.",
+    "main": "template.json",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cismet/cra-template-topicmap-wuppertal.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=8"
+    },
+    "bugs": {
+        "url": "https://github.com/cismet/cra-template-topicmap-wuppertal/issues"
+    },
+    "files": [
+        "template",
+        "template.json"
+    ]
+}
