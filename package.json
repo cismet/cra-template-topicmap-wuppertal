@@ -1,6 +1,6 @@
 {
     "name": "cra-template-topicmap-wuppertal",
-    "version": "1.0.0-alpha-3",
+    "version": "1.0.0-alpha-4",
     "scripts": {
         "prettify": "prettier --write './template/src/**/*.js'",
         "lint": "eslint './template/src/**/*.js'",
