@@ -13,7 +13,7 @@
         "topicmaps",
         "wuppertal"
     ],
-    "description": "TThe official TopicMap template for Create React App.",
+    "description": "The official TopicMap template for Create React App.",
     "main": "template.json",
     "repository": {
         "type": "git",
